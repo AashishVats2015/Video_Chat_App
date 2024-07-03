@@ -14,7 +14,3 @@ This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
 4. Go to your browser and type `http://127.0.0.1:3030/` in the address bar.
 5. Hurray! That's it.
 
-### ToDo
-
-- [ ] - Recreate the Front-end with React.
-
